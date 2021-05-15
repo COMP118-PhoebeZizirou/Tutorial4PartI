@@ -1,14 +1,20 @@
-/** \file Lab2.cpp
+/** \file Tutorial4PartI.cpp
 * \brief Drawing program
 * \details Program that allows the user to draw
 * \author Phoebe Zizirou
 * \version 0.1
-* \date 19/03/2021
+* \date 15/05/2021
 * \copyright UNIC
 */
 
+//Language Libs
 #include<iostream>
 #include <cassert> 
+#include<cstdlib>
+#include<ctime>
+
+//User Libs
+#include "Shapes.h"
 
 using namespace std;
 
