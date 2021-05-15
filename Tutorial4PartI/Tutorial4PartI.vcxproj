@@ -147,6 +147,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Shapes.cpp" />
     <ClCompile Include="Tutorial4PartI.cpp" />
   </ItemGroup>
   <ItemGroup>
